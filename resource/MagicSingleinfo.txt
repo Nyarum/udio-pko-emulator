@@ -1,0 +1,53 @@
+﻿10	Б¬Цйјэ·ЙРРФЄЛШ	1	runningattack.eff	10	0	0	-1	2	0	0
+11	Dispersion Bullet Path of Flight Element	1	04000002.eff	3	0	0	-1	6	0	0
+12	Penetrating Bullet Path of Flight	1	04000003.eff	3	0	0	-1	5	0	0
+13	Magma Bullet ·ЙРР	2	04000004.eff,04000004(0).eff	10	0	0	-1	4	0	0
+14	ТБєШБчґМГ¤Кх·ЙРР	2	04000005.eff,04000005(0).eff	10	1	4000005	-1	0	0	0
+15	ТБєШБч№н¶ѕСА·ЙРР	1	04000005.eff,04000005(0).eff	10	0	0	-1	0	0	0
+16	»ЫРЗЗї»ч·ЙРР	1	04000007.eff	10	1	4000007	-1	0	0	0
+17	Cripple ·ЙРР	1	04000008.eff	10	1	4000008	-1	5	0	0
+18	Illusion Slash Path of Flight	1	04000009.eff	15	0	0	-1	3	0	0
+19	Numb Path of Flight	1	04000010.eff	10	1	4000010	-1	0	0	0
+20	Frozen Arrow ·ЙРР	2	icearrowf.eff,icearrowf(a).eff	10	1	icearrowf	-1	2	0	icearrowh
+21	Spiritual Bolt ·ЙРР	1	hpushf02.eff	10	0	0	-1	2	0	hpusht
+22	Arrow	1	arrow.eff	3	0	0	-1	2	0	0
+23	Ship	1	04000103.eff	3	0	0	-1	3	0	0
+24	Octopus Ink	1	04000307.eff	3	0	0	-1	2	0	0
+25	Б¬Цйјэ·ЙРРФЄЛШ	1	runningattack2.eff	10	0	0	-1	2	0	0
+26	Б¬Цйјэ·ЙРРФЄЛШ2	1	runningattack3.eff	10	0	0	-1	2	0	0
+27	Saliva of Lizard	1	04000308.eff	3	0	0	-1	2	0	0
+28	Treant Effect	1	stone.eff	3	0	0	-1	2	0	0
+29	·ЙРЬГЁМШР§	1	04000314.eff	3	0	0	-1	2	0	0
+30	Pearl МШР§	1	04000317.eff	3	0	0	-1	2	0	0
+31	µШѕ«і¤АПМШР§	1	04000315.eff	3	0	0	-1	2	0	0
+32	Л®ѕ«БйМШР§	1	04000316.eff	3	0	0	-1	2	0	0
+33	РЎ±щБъМШР§	1	04000310.eff	3	0	0	-1	2	0	0
+34	ґу±щБъМШР§	1	04000310.eff	3	0	0	-1	2	0	0
+35	ЙдЛ®±ґМШР§	1	04000312.eff	3	0	0	-1	2	0	0
+36	°µУ°јэМШР§	1	04000318.eff	3	0	0	-1	2	0	1030006
+37	Spiritual Bolt ·ЙРР	1	hpushf03.eff	10	0	0	-1	2	0	hpusht
+38	Spiritual Bolt ·ЙРР2	1	hpushf04.eff	10	0	0	-1	2	0	hpusht
+39	¶ѕ±к·ЙРР	1	poisonfly.eff	10	0	0	-1	2	0	0
+40	Mud Path of Flight	1	04000322.eff	10	0	0	-1	2	0	1010515
+41	Зхі¤»рЗт·ЙРР	1	04000321.eff	10	1	4000321	-1	2	0	1060007
+42	АЗИЛ№­јэ·ЙРР	1	04000325.eff	10	0	0	-1	2	0	1030006
+43	ѕЮОПЕЈ»рјэ·ЙРР	1	04000324.eff	10	0	0	-1	2	0	1060007
+44	№ъНхЖу¶м±щїй·ЙРР	1	04000310.eff	10	1	4000310	-1	2	0	1010507
+45	Dart of Ninja Mole Path of Flight	1	04000319.eff	10	0	0	-1	2	0	1030006
+46	ГАИЛУгМТРД·ЙРР	1	04000320(a).eff	10	1	4000320	-1	2	0	1010518
+47	ОиЛ®·ЙРР	1	04000320(a).eff	10	1	4000323	-1	2	0	shuihua01
+48	Mud of Mudman	1	04000322.eff	10	0	0	-1	2	0	1010515
+49	Cannon Shot	1	cannon02.eff	10	1	cannon03	-1	4	0	0
+50	Venom Arrow ·ЙРР	1	parrowf.eff	10	0	0	-1	2	0	parrowh
+51	КШ»¤МмК№·ЙРР	1	01050039.eff	10	1	1050039	-1	2	0	1050040
+52	СЄЕ­·ЙРР	1	xnfxa.eff	10	1	xnfxb	-1	2	0	0
+53	daјэ	1	darrow.eff	3	0	0	-1	2	0	0
+54	єьСэД§·Ё·ЙРР	1	hymffx.eff	10	1	0	-1	2	0	0
+55	єьПЙД§·Ё·ЙРР	1	hxmffx.eff	10	1	0	-1	2	0	0
+56	Р·ИЮ·ЙРР	1	04000316.eff	10	1	0	-1	2	0	0
+57	Л®ПЙЧУ·ЙРР	1	zzgq.eff	10	1	0	-1	2	0	0
+58	ДѕК¬·ЁНхК¬¶ѕ»µµД	1	sd.eff	10	1	0	-1	2	0	0
+59	Black Dragon's Breath Path of Flight	2	lx.eff,lx2.eff	10	0	0	-1	2	0	0
+60	єЪБъ»ГУ°Х¶·ЙРР	2	bdwindf1.eff,bdwindf4.eff	10	1	bdwindfp	-1	2	0	bdwindaa
+61	єЪБъАЧ»ч	2	bdlighting1.eff,bdlighting3.eff	10	1	bdlightfp	-1	2	0	bdlightaa
+62	єЪБъСЧЗт	1	zzfireball.eff	10	1	zzfbfp	-1	2	0	zzfbfa

@@ -1,0 +1,58 @@
+1	Огненный самоцвет 	878	1,0,0	1	ItemHint_LieYanS
+2	Самоцвет Ярости 	879	2,3,7	1	ItemHint_ZhiYanS
+3	Взрывной самоцвет	880	4,0,0	1	ItemHint_HuoYaoS
+4	Люстриновый самоцвет 	881	1,2,3	1	ItemHint_MaNaoS
+5	Сияющий самоцвет 	882	11,22,27	2	ItemHint_HanYu
+6	Блестящий самоцвет 	883	11,22,27	2	ItemHint_YueZhiX
+7	Теневой самоцвет 	884	1,2,3	2	ItemHint_ShuiLingS
+8	Самоцвет духа 	887	1,2,3	4	ItemHint_ShengGuangS
+9	Самоцвет ветра 	860	24,0,0	4	ItemHint_FengLingS
+10	Самоцвет удара 	861	23,0,0	4	ItemHint_YingYanS
+11	Самоцвет колосса 	862	11,22,27	4	ItemHint_YanVitS
+12	Самоцвет ярости 	863	1,2,3	4	ItemHint_YanStrS
+13	Глаз Черного дракона	864	1,2,3	1	ItemHint_LongZhiTong
+14	Душа Черного дракона	865	11,22,27	2	ItemHint_LongZhiHun
+15	Сердце Черного дракона	866	23,24,0	2	ItemHint_LongZhiXin
+16	Самоцвет души	1012	1,2,3	4	ItemHint_GaNaZhiShen
+17	Желтый нефрит	5750	20,0,0	2	ItemHint_HuangYu
+18	Красный нефрит	5751	20,0,0	2	ItemHint_ChiYu
+19	Зеленый нефрит	5752	20,0,0	2	ItemHint_QingYu
+20	Аура Чиатана	5771	20,0,0	1	ItemHint_XTLingGuang
+21	Удар Лока	5772	23,0,0	1	ItemHint_LKBiZhong
+22	Уклонение Бинга	5773	24,0,0	2	ItemHint_BBDuoShan
+23	Защита Фенга	5774	22,27,0	2	ItemHint_FFDiYu
+24	Усиление Акулы	5775	22,11,27	4	ItemHint_XKQiangHua
+25	Сияние Азраила	5845	1,2,3	1	ItemHint_SShuiyao
+26	Неупокоенный Азраил	5846	22,27,0	2	ItemHint_SSbusi
+27	Свет Азраила	5847	1,2,3	1	ItemHint_SSguangmang
+28	Соединение Азраила	5848	1,2,3	1	ItemHint_SSningju
+29	Танец Азраила	5849	24,0,0	4	ItemHint_SSxuanwu
+30	Дух Аполлона	5878	1,2,3	1	ItemHint_ABOLUO
+31	Дух Купидона	5879	11,22,27	2	ItemHint_QIUBITE
+32	Дух Афины	5880	23,24,0	2	ItemHint_YADIANNA
+33	Самоцвет Испытания Колосса	6718	22,27,0	2	ItemHint_SLTZBS
+34	Сломанный Самоцвет Ветра	6817	24,0,0	4	ItemHint_HLS
+35	Треснутый Самоцвет Ветра	6818	24,0,0	4	ItemHint_HYS
+36	Неограненный Самоцвет Ветра	6819	24,0,0	4	ItemHint_HJS
+37	Сломанный Самоцвет Удара	6820	23,0,0	4	ItemHint_BLS
+38	Треснутый Самоцвет Удара	6821	23,0,0	4	ItemHint_BYS
+39	Неограненный Самоцвет Удара	6822	23,0,0	4	ItemHint_BJS
+40	Сломанный Самоцвет Колосса	6823	11,22,27	4	ItemHint_CLS
+41	Треснутый Самоцвет Колосса	6824	11,22,27	4	ItemHint_CYS
+42	Неограненный Самоцвет Колосса	6825	11,22,27	4	ItemHint_CJS
+43	Сломанный Самоцвет Ярости	6826	1,2,3	4	ItemHint_ZLS
+44	Треснутый Самоцвет Ярости	6827	1,2,3	4	ItemHint_ZYS
+45	Неограненный Самоцвет Ярости	6828	1,2,3	4	ItemHint_ZJS
+46	Сломанный Самоцвет Души	6829	1,2,3	4	ItemHint_QLS
+47	Треснутый Самоцвет Души	6830	1,2,3	4	ItemHint_QYS
+48	Неограненный Самоцвет Души	6831	1,2,3	4	ItemHint_QJS
+49	Великий Самоцвет Ярости	7108	1,2,3	4	ItemHint_GGR
+50	Великий Самоцвет Души	7109	1,2,3	4	ItemHint_GGS
+51	Великий Самоцвет Удара	7110	23,0,0	4	ItemHint_GGOS
+52	Великий Самоцвет Колосса	7111	11,22,27	4	ItemHint_GGC
+53	Великий Самоцвет Ветра	7112	24,0,0	4	ItemHint_GGW
+54	Золотая скала	7288	23,0,0	4	ItemHint_JinYanS
+55	Деревянная скала	7289	23,0,0	4	ItemHint_MuYanS
+56	Водная скала	7290	23,0,0	4	ItemHint_ShuiYanS
+57	Огненная скала	7291	23,0,0	4	ItemHint_HuoYanS
+58	Земляная скала	7292	23,0,0	4	ItemHint_TuYanS
