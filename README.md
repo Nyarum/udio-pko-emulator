@@ -7,14 +7,14 @@ Latest and really ready for testing / developing version of emulator MMORPG Tale
 - https://github.com/Nyarum/brrraaa - my try to rework architecture of noterius and pretty fast done my motivation
 - https://github.com/Nyarum/avocado - pretty fully view of the emulator now but in Crystal language
 
-Source codes I use:
+?? Source codes I use:
 - Thank you PkoDev.net, I took 1.3* sources from server and client (which wow bad I seen)
 
-Social links:
+?? Social links:
 - (Discord) UDIO: Piratia - https://discord.gg/MKkBxEw4
 - (Telegram) GOLOVATSKI - https://t.me/+zOMxIXW2Za82MTUy
 
-Almost all the work done you can watch:
+?? Almost all the work done you can watch:
 - https://www.youtube.com/watch?v=6oHN87gFmHk&list=PL91_HHBS7J9a8787S5eJTztJd-5nFzwqq (Playlist on Russian language)
 - https://wasd.tv/golovatski (2 season, now I stream here, also in Russian language)
 
@@ -22,14 +22,14 @@ So now I implemented new way for architecture and features\
 What's I great for this? Just write you shit code and that's it, small thinking - more done progress lol :3\
 Your intuition will do for youself everything, just believe in you
 
-Features of architecture:
+?? Features of architecture:
 - Storages plus interface (MongoDB / JSON file-based)
 - Docker | Docker-compose files to easy deploy it
 - Concurrent way to handle everything - world, players, connections, exchanging between players (haha :3)
 - Processor in bi-direction way to have easy way to unmarshal server-side packets in structs and check if the structs written well
 - Resource parser (CSV-style format, .txt files from original files)
 
-Features of packets:
+?? Features of packets:
 - Auth in account | Auto-register account
 - Create character
 - Exit account
@@ -39,7 +39,7 @@ Features of packets:
 - Chat options and have view chat from another player
 - Unview object if a player get out of distance
 
-Features of mathemathics:
+?? Features of mathemathics:
 - Distance between objects
 - Angle of character by x, y coords
 
