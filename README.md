@@ -10,6 +10,14 @@ Latest and really ready for testing / developing version of emulator MMORPG Tale
 Source codes I use:
 - Thank you PkoDev.net, I took 1.3* sources from server and client (which wow bad I seen)
 
+Social links:
+- (Discord) UDIO: Piratia - https://discord.gg/MKkBxEw4
+- (Telegram) GOLOVATSKI - https://t.me/+zOMxIXW2Za82MTUy
+
+Almost all the work done you can watch:
+- https://www.youtube.com/watch?v=6oHN87gFmHk&list=PL91_HHBS7J9a8787S5eJTztJd-5nFzwqq (Playlist on Russian language)
+- https://wasd.tv/golovatski (2 season, now I stream here, also in Russian language)
+
 So now I implemented new way for architecture and features\
 What's I great for this? Just write you shit code and that's it, small thinking - more done progress lol :3\
 Your intuition will do for youself everything, just believe in you
