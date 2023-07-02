@@ -10,8 +10,8 @@ Latest and really ready for testing / developing version of emulator MMORPG Tale
 Source codes I use:
 - Thank you PkoDev.net, I took 1.3* sources from server and client (which wow bad I seen)
 
-So now I implemented new way for architecture and features
-What's I great for this? Just write you shit code and that's it, small thinking - more done progress lol :3
+So now I implemented new way for architecture and features\
+What's I great for this? Just write you shit code and that's it, small thinking - more done progress lol :3\
 Your intuition will do for youself everything, just believe in you
 
 Features of architecture:
